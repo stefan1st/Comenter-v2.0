@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	pCurl (0,0,0);
+	pCurl (1,1,1);
 	return 0;
 }
 

@@ -1,8 +1,6 @@
 #include "stdafx.h"
 #include "pCurl.h"
-#include "loadInfo.h"
-#include <string>
-#include <curl/curl.h>
+
 using namespace std;
 
 

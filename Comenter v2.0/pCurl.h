@@ -1,6 +1,8 @@
 #pragma once
 
+#include "loadInfo.h"
 #include <string>
+#include <curl/curl.h>
 using namespace std;
 
 class pCurl
